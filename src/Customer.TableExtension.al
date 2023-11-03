@@ -6,7 +6,7 @@ tableextension 50100 "Customer VKN" extends Customer
         {
             Caption = 'Reward Points';
             DataClassification = CustomerContent;
-            MinValue = 0;
+            MinValue = 100;
             MaxValue = 10888999;
         }
     }
