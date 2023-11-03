@@ -1,0 +1,4 @@
+.vscode/rad.json
+*.app
+.vscode/launch.json
+*cache*.json
