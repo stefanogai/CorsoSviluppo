@@ -7,7 +7,7 @@ tableextension 50100 "Customer VKN" extends Customer
             Caption = 'Reward Points';
             DataClassification = CustomerContent;
             MinValue = 0;
-            MaxValue = 999;
+            MaxValue = 10999;
         }
     }
 }
